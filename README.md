@@ -41,6 +41,7 @@ Through this project, we performed **data analysis and visualization** to answer
 - Python scripts and datasets used for analysis  
 
 📄 **[View Full Project Report (PDF)](matplotlib%20project.pdf)**
+[matplotlib project.pdf](https://github.com/user-attachments/files/22943987/matplotlib.project.pdf)
 
 ---
 
