@@ -31,7 +31,7 @@ Through this project, we performed **data analysis and visualization** to answer
 - **Python**
 - **Matplotlib**
 - **Pandas**
-- **VS Code
+- **VS CODE**
 
 ---
 
