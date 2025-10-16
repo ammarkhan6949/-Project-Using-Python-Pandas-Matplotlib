@@ -16,7 +16,7 @@ plt.tight_layout()
 plt.savefig("MVT.png",dpi=300,)
 plt.show()
 
-![pd](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/top.png)
+
 
 
 rating_count= df["rating"].value_counts()
