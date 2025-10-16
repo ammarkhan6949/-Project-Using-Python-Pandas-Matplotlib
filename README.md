@@ -13,9 +13,7 @@ Through this project, we performed **data analysis and visualization** to answer
 - How many Movies and TV Shows are available?  
 - How has the number of releases changed over the years?  
 - Which are the top 10 countries with the most Netflix titles?  
-- What is the percentage distribution of content ratings?
-
-![pd](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/top.png)
+- What is the percentage distribution of content ratings
 
 ---
 
