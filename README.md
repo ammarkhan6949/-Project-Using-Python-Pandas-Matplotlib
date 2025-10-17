@@ -25,6 +25,9 @@ Through this project, we performed **data analysis and visualization** to answer
 - ⏱ Movie durations vary widely, offering content diversity for different audiences.
 
 ---
+## what is the distribution of movie durations on netflix?
+
+
 
 ## 🛠️ Tools & Technologies Used
 
