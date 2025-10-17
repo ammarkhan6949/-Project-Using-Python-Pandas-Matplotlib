@@ -25,11 +25,23 @@ Through this project, we performed **data analysis and visualization** to answer
 - ⏱ Movie durations vary widely, offering content diversity for different audiences.
 
 ---
-## what is the distribution of movie durations on netflix?
+## Q1- what is the distribution of movie durations on netflix?
 ![](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/movie_du.png)
 
-## How many movies and tv shows  are available on netflix?
+## Q2- How many movies and tv shows  are available on netflix?
 ![](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/MVT.png)
+
+## Q3- what is the relationshib between the release year and the number of shows released?
+![](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/relation.png)
+
+## Q4- How can we compare multiple visualization together for example , movies vs tv shows by year in single figure?
+![](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/comp.png)
+
+## Q5- which are the top 10  country  with the highest number of shows available on netflix
+![](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/top.png)
+
+##  Q6- what is the percentage distribution of each content rating 
+![](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/ranting.png)
 
 
 
