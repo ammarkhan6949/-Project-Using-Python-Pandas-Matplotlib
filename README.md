@@ -26,7 +26,7 @@ Through this project, we performed **data analysis and visualization** to answer
 
 ---
 ## what is the distribution of movie durations on netflix?
-[](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/movie_du.png)
+![](https://github.com/ammarkhan6949/-Project-Using-Python-Pandas-Matplotlib/blob/main/movie_du.png)
 
 
 
